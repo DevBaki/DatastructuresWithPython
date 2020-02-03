@@ -8,6 +8,16 @@ Lets get started .
 
 ## List
 
+### links : 
+
+https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+
+https://www.datacamp.com/community/tutorials/data-structures-python#list
+
+https://www.w3schools.com/python/python_lists.asp
+
+https://thomas-cokelaer.info/tutorials/python/lists.html
+
 
 ## Tuple
 
