@@ -10,6 +10,8 @@ Lets get started .
 
 ### links : 
 
+
+
 https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
 
 https://www.datacamp.com/community/tutorials/data-structures-python#list
