@@ -10,7 +10,7 @@ What is DataStrucure :
 
 ## List
 
-   List is 
+   Lists in Python are used to store collection of heterogeneous items. These are mutable, which means that you can change their content without changing their identity. You can recognize lists by their square brackets [ and ] that hold elements, separated by a comma ,. Lists are built into Python: you do not need to invoke them separately. 
 
 #### links : 
 
